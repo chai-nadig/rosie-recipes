@@ -21,7 +21,7 @@ title: "Rosie's Recipes"
 description: "It really is the best."
 baseurl: "/rosie-recipes" # the subpath of your site, e.g. "/blog"
 url: "https://chai-nadig.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: "/images/logo.webp" # path of site logo, e.g. "/images/logo.png"
+logo: "/images/logo.png" # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
