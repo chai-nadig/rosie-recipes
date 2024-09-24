@@ -81,7 +81,7 @@ plugins:
 
 # Collections
 collections:
-  pudis:
+  pudi:
     output: true
     permalink: /:collection/:path/
 
@@ -95,10 +95,10 @@ defaults:
       layout: post
       share: true
   - scope:
-      path: "_pudis"
-      type: pudis
+      path: "_pudi"
+      type: pudi
     values:
-      layout: post
+      layout: pudi
       share: true
 
 # Site Author

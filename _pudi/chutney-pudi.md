@@ -1,9 +1,10 @@
 ---
-title: "Chocolate Chip Cookies"
+layout: pudi
+title: "Chutney Pudi (Chutney Powder)"
 image:
-  path: /images/logo.png
-  thumbnail: /images/logo.png
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  path: /images/chutney-pudi.webp
+  thumbnail: /images/chutney-pudi.webp
+  caption: "Chutney Powder"
 ---
 
 A chocolate chip cookie is a drop cookie that originated in the United States and features chocolate chips as its distinguishing ingredient.

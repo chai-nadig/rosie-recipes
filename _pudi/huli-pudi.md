@@ -1,9 +1,9 @@
 ---
-title: "Chocolate Chip Cookies"
+title: "Huli Pudi (Sambhar Powder)"
 image:
-  path: /images/logo.png
-  thumbnail: /images/logo.png
-  caption: "Photo from [Pexels](https://www.pexels.com)"
+  path: /images/huli-pudi.webp
+  thumbnail: /images/huli-pudi.webp
+  caption: "Sambhar Powder"
 ---
 
 A chocolate chip cookie is a drop cookie that originated in the United States and features chocolate chips as its distinguishing ingredient.
