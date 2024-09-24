@@ -4,7 +4,6 @@ layout: default
 
 <main id="main" class="main-content" aria-label="Content">
   <article>
-    <h2>Pudiii</h2>
     {% if page.image %} {% assign page_image = page.image.path | default:
     page.image %} {% unless page_image contains '://' %} {% assign page_image =
     page_image | relative_url %} {% endunless %} {% assign page_image =
@@ -24,7 +23,7 @@ layout: default
         %}
       />
       {% if page.image.caption %}
-      <div class="page-image-caption">
+      <div class="pudi-image-caption">
         {{ page.image.caption | markdownify }}
       </div>
       {% endif %}

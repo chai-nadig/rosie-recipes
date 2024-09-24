@@ -5,8 +5,13 @@
 .pudi-image {
   position: relative;
   text-align: center;
+  align-items: center;
   margin-top: (-1 * $site-logo-height) / 2;
   margin-bottom: 2em;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+
   z-index: 1;
 
   @include breakpoint($medium) {
@@ -18,30 +23,26 @@
   }
 
   img {
-    width: 100%;
+    display: block;
+    width: 30%;
   }
 }
 
 .pudi-image-caption {
   position: absolute;
-  bottom: 0;
-  right: 0;
-  margin: 0 auto;
-  padding: 0.25em 0.5em;
-  color: #fff;
-  font-size: 0.75rem;
-  background: #000;
-  text-align: right;
-  z-index: 5;
-  opacity: 0.5;
-  border-radius: 4px 0 0 0;
-
-  > * {
-    margin: 0;
-    padding: 0;
-  }
-
-  a {
-    color: #fff;
-  }
+  bottom: 1em; /* Adjusts how far the caption is from the bottom */
+  left: 50%;
+  transform: translateX(-50%); /* Centers the caption horizontally */
+  background-color: rgba(
+    0,
+    0,
+    0,
+    0.5
+  ); /* Optional: Adds a semi-transparent background */
+  color: white;
+  padding: 0.5em;
+  font-size: 16px;
+  text-align: center;
+  width: 30%;
+  max-width: 100%;
 }
