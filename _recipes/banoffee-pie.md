@@ -64,3 +64,5 @@ Banoffee Pie is a delicious, no-bake dessert that combines a buttery biscuit bas
 3. ⁠Pour the cream Over the bananas
 4. ⁠Grate some chocolate shavings
 5. ⁠Freeze the Banoffee Pie until set!
+
+<img src="/images/banoffee-pie-2.jpeg">

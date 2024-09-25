@@ -1,7 +1,7 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name                    = "rosie-recipes"
+  spec.name                    = "rosies-recipes"
   spec.version                 = "3.2.0"
   spec.authors                 = ["Chai Nadig"]
 
