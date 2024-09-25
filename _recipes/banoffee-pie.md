@@ -3,7 +3,7 @@ layout: post
 title: "Banoffee Pie"
 image:
   path: /images/banoffee-pie-1.jpeg
-  thumbnail: /images/banoffee-pie-1.jpeg
+  thumbnail: /images/banoffee-pie-2.jpeg
   caption: "Banoffee Pie"
 
 author:
@@ -65,4 +65,4 @@ Banoffee Pie is a delicious, no-bake dessert that combines a buttery biscuit bas
 4. ⁠Grate some chocolate shavings
 5. ⁠Freeze the Banoffee Pie until set!
 
-<img src="/images/banoffee-pie-2.jpeg">
+<img src="/rosies-recipes/images/banoffee-pie-2.jpeg">

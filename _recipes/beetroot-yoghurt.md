@@ -3,7 +3,7 @@ layout: post
 title: "Beetroot Yoghurt"
 image:
   path: /images/thayir-pachadi-1.jpeg
-  thumbnail: /images/thayir-pachadi-1.jpeg
+  thumbnail: /images/thayir-pachadi-2.jpeg
   caption: "Banoffee Pie"
 
 author:
@@ -47,3 +47,5 @@ Thayir Pachadi is made South Indian style with the goodness of aromatic temperin
 You are now ready to eat! Enjoy!
 
 _Tip: Add some milk powder to your curd to make it even more creamy and rich._
+
+<img src="/rosies-recipes/images/thayir-pachadi-2.jpeg">
