@@ -11,10 +11,12 @@ author:
   picture: /images/pallavi.jpg
 ---
 
+Banoffee Pie is a delicious, no-bake dessert that combines a buttery biscuit base with layers of sliced bananas, rich caramel or dulce de leche, and whipped cream.
+
 ## Ingredients for the biscuit base
 
 - 2 packets of biscuit base
-- ⁠Undated butter (6-7Tbsps)
+- ⁠Undated butter (6-7 Tbsps)
 
 ## Ingredients for the _dulce de leche_
 

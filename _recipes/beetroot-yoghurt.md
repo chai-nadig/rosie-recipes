@@ -42,4 +42,4 @@ Thayir Pachadi is made South Indian style with the goodness of aromatic temperin
 
 You are now ready to eat! Enjoy!
 
-_Tip to follow: Add some milk powder to your curd to make it even more creamy and rich._
+_Tip: Add some milk powder to your curd to make it even more creamy and rich._
