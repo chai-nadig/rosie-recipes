@@ -59,8 +59,8 @@ Banoffee Pie is a delicious, no-bake dessert that combines a buttery biscuit bas
 
 ## Assembling the Banoffee Pie
 
-1.⁠ ⁠Pour the _dulce de leche_ over the biscuit base.
-2.⁠ ⁠Line it with the cut bananas
-3.⁠ ⁠Pour the cream Over the bananas
-4.⁠ ⁠Grate some chocolate shavings
-5.⁠ ⁠Freeze the Banoffee Pie until set!
+1. ⁠Pour the _dulce de leche_ over the biscuit base.
+2. ⁠Line it with the cut bananas
+3. ⁠Pour the cream Over the bananas
+4. ⁠Grate some chocolate shavings
+5. ⁠Freeze the Banoffee Pie until set!
