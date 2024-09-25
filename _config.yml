@@ -84,6 +84,9 @@ collections:
   pudi:
     output: true
     permalink: /:collection/:path/
+  recipes:
+    output: true
+    permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
@@ -99,6 +102,12 @@ defaults:
       type: pudi
     values:
       layout: pudi
+      share: true
+  - scope:
+      path: "_recipes"
+      type: recipe
+    values:
+      layout: recipe
       share: true
 
 # Site Author
