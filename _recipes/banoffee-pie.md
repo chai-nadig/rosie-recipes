@@ -32,7 +32,7 @@ Banoffee Pie is a delicious, no-bake dessert that combines a buttery biscuit bas
 - ⁠2 Bananas
 - ⁠Grated Chocolate for garnishing
 
-## Method for the biscuit base
+## Directions for the biscuit base
 
 1. ⁠Line the tin from the sides and the bottom.
 2. ⁠Pound the biscuits to a fine mix ( not as fine as in a mixer). Let them be a little chunky.
@@ -41,7 +41,7 @@ Banoffee Pie is a delicious, no-bake dessert that combines a buttery biscuit bas
 5. ⁠Once cooled down, spread the biscuit base in the lines tin.
 6. ⁠Put it in the fridge to set. Min 2hrs.
 
-## Method for the _dulce de leche_
+## Directions for the _dulce de leche_
 
 1. ⁠Take one can of condensed milk and dip it upright in a cooker.
 2. ⁠Fill it with water. Make sure the water level is a little over the height of the can.
@@ -52,7 +52,7 @@ Banoffee Pie is a delicious, no-bake dessert that combines a buttery biscuit bas
    60 ml whiskey and whisk the _dulce de leche_. It will become slightly runny.
 6. ⁠Add the remaining other half of the condensed milk also. According to your palate add a pinch of salt.
 
-## Method for the Cream
+## Directions for the Cream
 
 1. ⁠In a bowl add the cream, powdered sugar and vanilla essence.
 2. ⁠Whip all the ingredients till peaks are formed or till it become slightly thick. _Important: Don't over whip the cream otherwise it will taste sour or split._
