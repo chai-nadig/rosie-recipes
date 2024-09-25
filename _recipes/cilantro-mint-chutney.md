@@ -17,12 +17,12 @@ Cilantro Mint Chutney is a vibrant, tangy, and refreshing Indian condiment made 
 
 - 2 cups fresh mint leaves
 - 4 cups cilantro or coriander leaves and stems
-- 3 - 4 green finger hot chilies with seeds (optional)
+- 3 - 4 green finger hot chilies with seeds _(optional)_
 - 1/2 medium white onion coarsely chopped
 - 1 clove of garlic
 - 1 inch piece of ginger peeled and coarsely chopped
 - Juice of 2 lemons
-- 1 tsp cumin powder (optional)
+- 1 tsp cumin powder _(optional)_
 - 1/4 tsp black salt or sea salt or regular salt (as per taste)
 - 1-2 Tbsp water
 - 1 Tbsp jaggery (or brown sugar) optional

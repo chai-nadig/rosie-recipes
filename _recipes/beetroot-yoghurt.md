@@ -23,7 +23,7 @@ Thayir Pachadi is made South Indian style with the goodness of aromatic temperin
 - One Tomato Chopped
 - 1 green chilli chopped
 - A few mint leaves
-- Milk Powder (optional)
+- Milk Powder _(optional)_
 - A few Curry Leaves (Kadi Patta)
 - 2 spoons of mustard seeds
 - 2 spoons of Urad Dal (or any other split pulses that can be used for simmering or tadka)

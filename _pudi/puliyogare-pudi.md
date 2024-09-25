@@ -23,8 +23,8 @@ This recipe makes 4 dozen cookies.
 - 2 teaspoons vanilla extract
 - 2 large eggs
 - 2 cups semi-sweet chocolate chips
-- 1/2 teaspoon nutmeg (optional)
-- 1 cup chopped pecans or walnuts (optional)
+- 1/2 teaspoon nutmeg _(optional)_
+- 1 cup chopped pecans or walnuts _(optional)_
 
 ## Directions
 

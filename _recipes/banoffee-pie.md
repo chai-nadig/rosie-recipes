@@ -21,7 +21,7 @@ Banoffee Pie is a delicious, no-bake dessert that combines a buttery biscuit bas
 ## Ingredients for the _dulce de leche_
 
 - ⁠1 can condensed milk
-- ⁠30 ml whiskey (optional)
+- ⁠30 ml whiskey _(optional)_
 - ⁠A pinch of salt
 
 ## Ingredients for the cream
