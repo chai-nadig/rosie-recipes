@@ -7,7 +7,7 @@ image:
   caption: "Clafoutis"
 
 author:
-  name: Marlène Jerry
+  name: Marlène Jarry
   picture: /images/marlène.jpeg
 ---
 
