@@ -17,7 +17,7 @@ Margarita is a classic cocktail made with tequila, lime juice, and orange liqueu
 
 - Tequila
 - ⁠⁠Lemons juice (freshly squeezed)
-  ⁠⁠- Triple Sec/Cointreau
+  ⁠- Triple Sec/Cointreau
 - ⁠⁠Salt
 - ⁠⁠Ice
 
