@@ -23,7 +23,7 @@ Roasted lentils like chana dal and urad dal are also crucial to the mixture, pro
 
 Huli pudi is most famously used in the preparation of sambar, where it is the key ingredient that defines the dish. Sambar is typically made by boiling lentils with vegetables, tamarind, and water, then adding the huli pudi to infuse the stew with its rich, complex flavor. The spices in the powder blend with the lentils and tamarind to create a tangy, spicy, and aromatic dish that pairs perfectly with rice, dosa, or idli.
 
-Beyond sambar, huli pudi can be used in other South Indian gravies and curries. It is sometimes added to rasam, another popular South Indian soup, or sprinkled over stir-fried vegetables to give them a spicy kick. Some households also use sambar powder as a base for other tamarind-based dishes like huli saaru or even as a flavoring in rice dishes. Its versatility makes it a go-to spice blend for quick curries and gravies.
+Beyond sambar, huli pudi can be used in other South Indian gravies and curries. It is sometimes added to rasam, another popular South Indian soup, or sprinkled over stir-fried vegetables to give them a spicy kick. Some households also use sambar powder as a base for other tamarind-based dishes like huli or even as a flavoring in rice dishes. Its versatility makes it a go-to spice blend for quick curries and gravies.
 
 ### Pairing with Dishes
 
