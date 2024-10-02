@@ -26,9 +26,6 @@ Saaru, also known as Rasam, is a tangy and spicy South Indian soup made from tam
 - Salt to taste
 - 2 cups water
 - Fresh coriander leaves for garnish
-
-### Tempering
-
 - 1 teaspoon mustard seeds
 - 1/2 teaspoon cumin seeds
 - 2 dried red chilies
@@ -36,31 +33,33 @@ Saaru, also known as Rasam, is a tangy and spicy South Indian soup made from tam
 - A pinch of asafoetida (hing)
 - 1 tablespoon ghee or oil
 
-## Prepare Tamarind Water
-
-Soak the tamarind in 1/4 cup of warm water for about 10 minutes. Squeeze out the juice and discard the pulp (or use tamarind paste directly).
-
 ## Directions
 
-1. In a pot, add the tamarind water, chopped tomatoes, turmeric powder, and jaggery.
-2. Add 2 cups of water and bring the mixture to a boil.
-3. Once the tomatoes soften, mash them slightly with a spoon.
-4. Add the cooked toor dal and mix well.
-5. Stir in the saarina pudi (rasam powder) and salt to taste.
-6. Allow the rasam to simmer on low heat for about 5-7 minutes.
-7. Adjust the consistency by adding more water if needed.
+1. **Prepare Tamarind Water:**
 
-## Tempering
+   - Soak tamarind in warm water for 10 minutes, extract the juice, and discard the pulp (or use tamarind paste mixed with water).
 
-1. In a small pan, heat ghee or oil.
-2. Add mustard seeds and cumin seeds, and allow them to crackle.
-3. Add dried red chilies, curry leaves, and a pinch of asafoetida (hing).
-4. Fry for a few seconds until fragrant.
+2. **Cook the saaru**:
 
-## Final Touch
+   - In a pot, add the tamarind water, chopped tomatoes, turmeric powder, and jaggery.
+   - Add 2 cups of water and bring the mixture to a boil.
+   - Once the tomatoes soften, mash them slightly with a spoon.
+   - Add the cooked toor dal and mix well.
+   - Stir in the saarina pudi (rasam powder) and salt to taste.
+   - Allow the rasam to simmer on low heat for about 5-7 minutes.
+   - Adjust the consistency by adding more water if needed.
 
-1. Pour the tempering over the rasam and give it a good stir.
-2. Garnish with fresh coriander leaves.
-3. Serve the hot saaru (rasam) with steamed rice and a dollop of ghee, or enjoy it as a flavorful soup.
+3. **Prepare the Tempering:**
+
+   - In a small pan, heat ghee or oil. Add mustard seeds and cumin seeds, and let them splutter.
+   - Add dried red chilies, curry leaves, and asafoetida (hing), and sauté for a few seconds until fragrant.
+
+4. **Final Touch:**
+
+   - Pour the tempering over the simmering rasam and stir well.
+   - Garnish with fresh coriander leaves.
+
+5. **Serve:**
+   - Serve the menasina saaru hot with steamed rice or enjoy it as a soup.
 
 <img src="/rosies-recipes/images/saaru-2.webp">
