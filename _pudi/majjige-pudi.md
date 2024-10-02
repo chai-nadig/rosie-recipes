@@ -1,4 +1,5 @@
 ---
+layout: pudi
 title: "Majjige Pudi"
 image:
   path: /images/majjige-pudi.webp

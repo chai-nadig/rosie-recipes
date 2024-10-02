@@ -1,4 +1,5 @@
 ---
+layout: pudi
 title: "Puliyogare Pudi (Tamarind Rice Powder)"
 image:
   path: /images/puliyogare-pudi.webp

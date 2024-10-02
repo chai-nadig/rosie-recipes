@@ -9,6 +9,8 @@ image:
 author:
   name: Chai Nadig
   picture: /images/chai.jpg
+
+pudi: "Saarina Pudi (Rasam Powder)"
 ---
 
 Saaru, also known as Rasam, is a tangy and spicy South Indian soup made from tamarind, lentils, and a special blend of spices called saarina pudi (rasam powder).

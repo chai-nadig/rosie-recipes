@@ -1,8 +1,9 @@
 ---
-layout: post
+layout: friend
 title: "Harsha Ashok"
 image:
   path: /images/harsha.jpg
   thumbnail: /images/harsha.jpg
   caption: "Harsha Ashok"
+taxonomy: "Harsha Ashok"
 ---

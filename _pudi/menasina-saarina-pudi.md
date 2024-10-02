@@ -1,4 +1,5 @@
 ---
+layout: pudi
 title: "Menasina Saarina Pudi"
 image:
   path: /images/menasina-saarina-pudi.webp

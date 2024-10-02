@@ -1,4 +1,5 @@
 ---
+layout: pudi
 title: "Palyda Pudi (Masala Rice Powder)"
 image:
   path: /images/palyada-pudi.webp

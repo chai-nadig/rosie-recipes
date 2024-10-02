@@ -1,4 +1,5 @@
 ---
+layout: pudi
 title: "Menthyada Hittu (Fenugreek Lentil Powder)"
 image:
   path: /images/menthyada-hittu.webp

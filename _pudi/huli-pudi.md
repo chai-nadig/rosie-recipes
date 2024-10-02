@@ -1,4 +1,5 @@
 ---
+layout: pudi
 title: "Huli Pudi"
 image:
   path: /images/huli-pudi.webp

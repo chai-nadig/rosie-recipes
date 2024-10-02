@@ -1,4 +1,5 @@
 ---
+layout: pudi
 title: "Saarina Pudi (Rasam Powder)"
 image:
   path: /images/saarina-pudi.webp
