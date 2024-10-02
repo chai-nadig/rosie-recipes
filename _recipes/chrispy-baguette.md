@@ -34,3 +34,5 @@ Super easy Baguette for on the fly. You can prepare it the day before and even f
 8. Bake for 15-20 mins or until golden brown. Add a bowl of water in the first half to steam the bread.
 
 Enjoy without moderation.
+
+<img src="/rosies-recipes/images/chrispy-baguette-2.webp">

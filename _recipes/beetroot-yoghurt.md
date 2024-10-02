@@ -4,7 +4,7 @@ title: "Beetroot Yoghurt"
 image:
   path: /images/thayir-pachadi-1.jpeg
   thumbnail: /images/thayir-pachadi-2.jpeg
-  caption: "Banoffee Pie"
+  caption: "Beetroot Yoghurt"
 
 author:
   name: Pallavi Jain
