@@ -1,6 +1,6 @@
 ---
 layout: pudi
-title: "Palyda Pudi"
+title: "Palyada Pudi"
 image:
   path: /images/palyada-pudi.webp
   thumbnail: /images/palyada-pudi.webp
