@@ -6,8 +6,7 @@ site.author -%} {%- assign author = site.data.authors[author] | default: author
   {%- if author.picture -%} {%- if author.picture contains "://" -%} {%- assign
   author_picture = author.picture -%} {%- else -%} {%- assign author_picture =
   author.picture | relative_url -%} {%- endif -%} {% assign friend_url =
-  "/rosies-recipes/friends/" | append: author.name | downcase | replace: " ",
-  "-" %}
+  "/friends/" | append: author.name | downcase | replace: " ", "-" %}
 
   <a href="{{ friend_url }}">
     <img

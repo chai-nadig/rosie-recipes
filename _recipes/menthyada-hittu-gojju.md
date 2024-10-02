@@ -25,7 +25,7 @@ Menthyada Hittu Gojju is a flavorful South Indian dish made with green peppers a
 ## Ingredients
 
 - 2 medium sized green peppers
-- 3 heap tsp [methyada hittu](/rosies-recipes/pudi/menthyada-hittu)
+- 3 heap tsp [methyada hittu](/pudi/menthyada-hittu)
 - 3/4 tsp tamarind paste (mixed with 2 tbsp water)
 - 2 tsp jaggery powder
 - 1/2 tsp chilli paste or 2 chopped green chillies
@@ -39,13 +39,13 @@ Menthyada Hittu Gojju is a flavorful South Indian dish made with green peppers a
 ## Directions
 
 1. Wash and cube the capsicum.
-2. Mix the [methyada hittu](/rosies-recipes/pudi/menthyada-hittu) in 1/2 cup room temperature water without lumps to make it a paste.
+2. Mix the [methyada hittu](/pudi/menthyada-hittu) in 1/2 cup room temperature water without lumps to make it a paste.
 3. Heat oil in a pan. Add the seasoning. After daal is light brown, add chilli paste and the cubed capsicum.
 4. Add 3/4 tsp of water, saute well.
 5. Cover and cook till capsicum is half done.
 6. Add jaggery powder, salt, tamarind paste, mix well.
-7. Add [methyada hittu](/rosies-recipes/pudi/menthyada-hittu) paste, keep stirring and avoid lump formation.
+7. Add [methyada hittu](/pudi/menthyada-hittu) paste, keep stirring and avoid lump formation.
 8. Gradually add 1 cup of hot water, keep stirring, boil well.
 9. Curry thickens on standing. Adjust the consistency by adding more water.
 
-<img src="/rosies-recipes/images/menthyada-hittu-gojju-2.webp">
+<img src="/images/menthyada-hittu-gojju-2.webp">

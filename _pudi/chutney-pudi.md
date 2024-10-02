@@ -23,13 +23,13 @@ To prepare chutney pudi, these ingredients are dry roasted individually to bring
 
 Chutney pudi is incredibly versatile and can be used in a variety of ways. It is most commonly mixed with ghee or oil and served as a side condiment with rice, dosa, idli, and chapati. When combined with a bit of water, it can also be transformed into a thick paste that complements South Indian breakfasts like upma or poha. The savory, spicy, and slightly sweet flavors of chutney pudi make it a perfect accompaniment to most Indian dishes.
 
-In traditional South Indian households, chutney pudi is often sprinkled directly onto hot rice mixed with ghee or oil, creating a simple yet satisfying meal - [chutney pudi anna](/rosies-recipes/recipes/chutney-pudi-anna). It can also be used as a dry rub for vegetables or even as a seasoning in stir-fried dishes. Chutney pudi adds a flavorful punch to snacks like puffed rice or even sandwiches, making it a beloved staple in both rural and urban kitchens.
+In traditional South Indian households, chutney pudi is often sprinkled directly onto hot rice mixed with ghee or oil, creating a simple yet satisfying meal - [chutney pudi anna](/recipes/chutney-pudi-anna). It can also be used as a dry rub for vegetables or even as a seasoning in stir-fried dishes. Chutney pudi adds a flavorful punch to snacks like puffed rice or even sandwiches, making it a beloved staple in both rural and urban kitchens.
 
 ### Pairing with Dishes
 
 Chutney pudi pairs especially well with idli and dosa, the beloved breakfast staples of South India. When you don’t have the time to make fresh chutney or sambar, chutney pudi provides a quick and delicious alternative. Its coarse texture adds a delightful contrast to the soft, spongy texture of idlis, and its bold flavors elevate the simple dosa to new heights.
 
-It’s also common to eat chutney pudi with steamed rice. Mixed with a dollop of ghee, this combination makes for a wholesome meal that’s easy to prepare but rich in flavor. Some also enjoy sprinkling chutney pudi over [curd rice](/rosies-recipes/recipes/curd-rice) or ragi mudde (steamed finger millet balls) for an extra layer of taste and spice.
+It’s also common to eat chutney pudi with steamed rice. Mixed with a dollop of ghee, this combination makes for a wholesome meal that’s easy to prepare but rich in flavor. Some also enjoy sprinkling chutney pudi over [curd rice](/recipes/curd-rice) or ragi mudde (steamed finger millet balls) for an extra layer of taste and spice.
 
 ### Conclusion
 

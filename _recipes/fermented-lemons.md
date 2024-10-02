@@ -47,4 +47,4 @@ For a 3L jar, use approximately 12 large lemons. Consume within 1 to 2 months.
 
 Fermented in this way, these lemons can be stored in ambient air for 1 year, if the jar is tightly closed. Once the jar is opened, store the lemons in the refrigerator.
 
-<img src="/rosies-recipes/images/fermented-lemons-2.webp">
+<img src="/images/fermented-lemons-2.webp">

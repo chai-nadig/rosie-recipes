@@ -42,4 +42,4 @@ Super easy Baguette for on the fly. You can prepare it the day before and even f
 
 Enjoy without moderation.
 
-<img src="/rosies-recipes/images/chrispy-baguette-2.webp">
+<img src="/images/chrispy-baguette-2.webp">

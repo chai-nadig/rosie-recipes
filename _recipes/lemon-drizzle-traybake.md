@@ -45,4 +45,4 @@ Lemon Drizzle Traybake is a light and moist cake infused with the zesty freshnes
 5. Make the decoration. In a medium pan, dissolve the sugar in 100ml of water. Add the lemon slices and simmer over a low heat for 15 minutes to soften the lemon slices. Use a fork lift the slices out of the pan and arrange them in 3 rows of 4 slices over the top of the cake.
 6. Remove the cake from the tin and cut it into squares – with a lemon slice on top of each. Serve. 1 or 2 lemons, cut into 12 thin slices
 
-<img src="/rosies-recipes/images/lemon-drizzle-traybake-2.webp">
+<img src="/images/lemon-drizzle-traybake-2.webp">

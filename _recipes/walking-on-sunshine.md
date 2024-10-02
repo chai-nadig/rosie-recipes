@@ -32,4 +32,4 @@ This refreshing cocktail combines the zesty flavor of preserved kumquats with th
 3. ⁠⁠torch rosemary over flame, garnish on drink
 4. ⁠⁠add whiskey, if using
 
-<img src="/rosies-recipes/images/walking-on-sunshine-2.webp">
+<img src="/images/walking-on-sunshine-2.webp">

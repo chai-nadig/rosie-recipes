@@ -27,7 +27,7 @@ Anna, is rice in Kannada.
 ## Ingredients
 
 - 1 cup cooked rice
-- 1 - 1,5 Tsp [chutney pudi](/rosies-recipes/pudi/chutney-pudi)
+- 1 - 1,5 Tsp [chutney pudi](/pudi/chutney-pudi)
 - 1 Tsp ghee or oil
 - Salt to taste
 
@@ -54,4 +54,4 @@ Anna, is rice in Kannada.
 
 Enjoy your flavorful **Chutney Pudi Rice**!
 
-<img src="/rosies-recipes/images/chutney-pudi-anna-2.webp">
+<img src="/images/chutney-pudi-anna-2.webp">

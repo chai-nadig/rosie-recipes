@@ -50,4 +50,4 @@ This curd rice recipe is my comfort food. Easy on the tummy, yummy on the tongue
 
 Most important - Enjoy :)
 
-<img src="/rosies-recipes/images/curd-rice-2.webp">
+<img src="/images/curd-rice-2.webp">

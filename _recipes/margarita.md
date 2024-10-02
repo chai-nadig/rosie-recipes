@@ -42,4 +42,4 @@ Margarita is a classic cocktail made with tequila, lime juice, and orange liqueu
 
 (Serves 2)
 
-<img src="/rosies-recipes/images/margarita-2.webp">
+<img src="/images/margarita-2.webp">

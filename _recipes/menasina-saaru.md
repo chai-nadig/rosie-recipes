@@ -24,7 +24,7 @@ Menasina Saaru is a flavorful South Indian pepper rasam made with tamarind, toor
 
 ## Ingredients
 
-- 1 tablespoon [menasina saarina pudi](/rosies-recipes/pudi/menasina-saarina-pudi)
+- 1 tablespoon [menasina saarina pudi](/pudi/menasina-saarina-pudi)
 - 1 small lemon-sized tamarind (or 1 tablespoon tamarind paste)
 - 1/4 cup cooked toor dal (pigeon peas)
 - 1/4 teaspoon turmeric powder
@@ -48,7 +48,7 @@ Menasina Saaru is a flavorful South Indian pepper rasam made with tamarind, toor
 2. **Cook the saaru:**
 
    - In a pot, add tamarind water, cooked toor dal, turmeric powder, and salt. Bring the mixture to a boil.
-   - Add the [menasina saarina pudi](/rosies-recipes/pudi/menasina-saarina-pudi) and jaggery (if using). Let it simmer on low heat for 5-7 minutes. Adjust the consistency with more water if needed.
+   - Add the [menasina saarina pudi](/pudi/menasina-saarina-pudi) and jaggery (if using). Let it simmer on low heat for 5-7 minutes. Adjust the consistency with more water if needed.
 
 3. **Prepare the Tempering:**
 
@@ -65,4 +65,4 @@ Menasina Saaru is a flavorful South Indian pepper rasam made with tamarind, toor
 
 Enjoy the spicy and aromatic pepper rasam!
 
-<img src="/rosies-recipes/images/menasina-saaru-2.webp">
+<img src="/images/menasina-saaru-2.webp">

@@ -40,4 +40,4 @@ Cherries clafoutis from the French region of Limousin
 8. Bake in the preheated oven for 45 to 60 minutes, until the clafouti is puffed and brown and a knife inserted into the center comes out clean.
 9. Sprinkle with powdered sugar and serve warm.
 
-<img src="/rosies-recipes/images/clafoutis-2.webp">
+<img src="/images/clafoutis-2.webp">

@@ -27,7 +27,7 @@ Palya is a traditional South Indian stir-fry made with vegetables like beans, ca
 ## Ingredients
 
 - 2 cups diced green beans
-- 2 tablespoons [palyada pudi](/rosies-recipes/pudi/palyada-pudi)
+- 2 tablespoons [palyada pudi](/pudi/palyada-pudi)
 - 1 tablespoon oil or ghee
 - 1/2 teaspoon mustard seeds
 - 1/2 teaspoon cumin seeds
@@ -64,4 +64,4 @@ Enjoy your flavorful and easy Hurlikaayi Palya!
 
 _Note: You can replace green beans with any boiled vegetable of your choice. Eg: potatoes, string beans, peppers, etc._
 
-<img src="/rosies-recipes/images/hurlikaayi-palya-2.webp">
+<img src="/images/hurlikaayi-palya-2.webp">

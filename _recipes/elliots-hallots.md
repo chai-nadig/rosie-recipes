@@ -41,4 +41,4 @@ For 3 hallots
 6. Brush the top of the braided dough with a beaten egg to give the bread a golden, shiny crust.
 7. Bake in a preheated oven at 180°C (350°F) for about 25 minutes until the bread is golden brown.
 
-<img src="/rosies-recipes/images/elliots-hallots-2.webp">
+<img src="/images/elliots-hallots-2.webp">

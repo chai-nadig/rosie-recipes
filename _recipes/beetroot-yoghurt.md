@@ -55,4 +55,4 @@ You are now ready to eat! Enjoy!
 
 _Tip: Add some milk powder to your curd to make it even more creamy and rich._
 
-<img src="/rosies-recipes/images/thayir-pachadi-2.jpeg">
+<img src="/images/thayir-pachadi-2.jpeg">

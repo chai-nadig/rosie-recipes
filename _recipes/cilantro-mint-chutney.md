@@ -43,4 +43,4 @@ Good enough for you to dunk into or spread on your bread or roti.
 
 _Tip: Resist the urge to add more water. Instead, keep blending and scrape down the sides as needed. Patience is key—your mixture will reach the right consistency with a bit of persistence!_
 
-<img src="/rosies-recipes/images/cilantro-mint-chutney-2.webp">
+<img src="/images/cilantro-mint-chutney-2.webp">

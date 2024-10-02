@@ -26,7 +26,7 @@ Majjige is a refreshing South Indian buttermilk drink made with yogurt, water, a
 
 - 1 cup plain yogurt (curds)
 - 1 cup water
-- 1-2 teaspoons [majjige pudi](/rosies-recipes/pudi/majjige-pudi)
+- 1-2 teaspoons [majjige pudi](/pudi/majjige-pudi)
 - Salt to taste
 - Fresh coriander leaves for garnish (optional)
 
@@ -38,11 +38,11 @@ Majjige is a refreshing South Indian buttermilk drink made with yogurt, water, a
 
 2. **Add Majjige Pudi:**
 
-   - Stir in 1-2 teaspoons of [majjige pudi](/rosies-recipes/pudi/majjige-pudi) into the yogurt mixture. Whisk until the masala is fully dissolved and well incorporated.
+   - Stir in 1-2 teaspoons of [majjige pudi](/pudi/majjige-pudi) into the yogurt mixture. Whisk until the masala is fully dissolved and well incorporated.
 
 3. **Season:**
 
-   - Add salt to taste and mix again. Adjust the amount of [majjige pudi](/rosies-recipes/pudi/majjige-pudi) to your liking.
+   - Add salt to taste and mix again. Adjust the amount of [majjige pudi](/pudi/majjige-pudi) to your liking.
 
 4. **Garnish:**
 

@@ -24,7 +24,7 @@ Saaru, also known as Rasam, is a tangy and spicy South Indian soup made from tam
 
 ## Ingredients
 
-- 2 tablespoon [saarina pudi](/rosies-recipes/pudi/saarina-pudi)
+- 2 tablespoon [saarina pudi](/pudi/saarina-pudi)
 - 1 small lemon-sized ball of tamarind (or 1 tablespoon tamarind paste)
 - 1 medium tomato, chopped
 - 1/4 cup cooked toor dal (tuvar dal / yellow split peas / pigeon peas)
@@ -69,4 +69,4 @@ Saaru, also known as Rasam, is a tangy and spicy South Indian soup made from tam
 5. **Serve:**
    - Serve the menasina saaru hot with steamed rice or enjoy it as a soup.
 
-<img src="/rosies-recipes/images/saaru-2.webp">
+<img src="/images/saaru-2.webp">

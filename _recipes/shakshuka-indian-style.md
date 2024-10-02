@@ -49,4 +49,4 @@ Shakshuka Indian Style is a flavorful twist on the classic Middle Eastern dish, 
 
 Voila! You’re ready to eat straight out of the pen.
 
-<img src="/rosies-recipes/images/shakshuka-indian-style-2.jpeg">
+<img src="/images/shakshuka-indian-style-2.jpeg">

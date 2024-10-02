@@ -27,7 +27,7 @@ Carrot Radish Huli is a tangy and flavorful South Indian lentil stew made with c
 - 1 cup carrots, diced
 - 1 cup radish, sliced
 - 1/2 cup toor dal (pigeon peas)
-- 2 tablespoons [huli pudi](/rosies-recipes/pudi/huli-pudi)
+- 2 tablespoons [huli pudi](/pudi/huli-pudi)
 - 1 small lemon-sized ball of tamarind (or 1 tablespoon tamarind paste)
 - 1/4 teaspoon turmeric powder
 - 1/2 teaspoon jaggery _(optional)_
@@ -55,7 +55,7 @@ Carrot Radish Huli is a tangy and flavorful South Indian lentil stew made with c
 
 3. **Add Tamarind, Jaggery, and Huli Pudi:**
 
-   - Once the dal and vegetables are cooked, add the tamarind water, jaggery, [huli pudi](/rosies-recipes/pudi/huli-pudi), and salt.
+   - Once the dal and vegetables are cooked, add the tamarind water, jaggery, [huli pudi](/pudi/huli-pudi), and salt.
    - Let it simmer for 5-7 minutes to let the flavors combine.
 
 4. **Prepare the Tempering:**
@@ -75,4 +75,4 @@ Enjoy your flavorful and nutritious carrot and radish huli!
 
 _Note: You can replace carrots and radish with any vegetable of your liking - beans, potatoes, greens, etc._
 
-<img src="/rosies-recipes/images/carrot-raddish-huli-2.webp">
+<img src="/images/carrot-raddish-huli-2.webp">

@@ -68,4 +68,4 @@ Chicken Kathi Roll with Mint Cilantro Chutney is a popular Indian street food fe
 10. Set a pan over medium heat and add some ghee or oil. Place a frozen or fresh-made paratha and gently cook until golden brown and crispy on both sides. _Note: If you want to make it an egg roll, scramble one egg and pour it on one side of the golden brown paratha. Flip once and cook the egg face down before assembling the Kathi roll._
 11. Assemble the roll. Spread a spoonful or two of the chutney on the bottom followed by a serving of the chicken. Garnish with sliced onions, thinly sliced cucumber, and more chutney as needed.
 
-<img src="/rosies-recipes/images/chicken-kathi-roll-2.webp">
+<img src="/images/chicken-kathi-roll-2.webp">

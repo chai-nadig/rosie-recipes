@@ -41,4 +41,4 @@ Negroni is a classic Italian cocktail made with equal parts gin, Campari, and sw
 
 Ready to serve. Voila!
 
-<img src="/rosies-recipes/images/negroni-2.webp">
+<img src="/images/negroni-2.webp">

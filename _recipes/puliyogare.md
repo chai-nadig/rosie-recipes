@@ -25,7 +25,7 @@ Puliyogare is a tangy and spicy South Indian tamarind rice dish, flavored with p
 ## Ingredients
 
 - 2 cups cooked rice _(preferably cooled)_
-- 2 tablespoons [puliyogare pudi](/rosies-recipes/pudi/puliyogare-pudi)
+- 2 tablespoons [puliyogare pudi](/pudi/puliyogare-pudi)
 - 1 tablespoon tamarind paste _(adjust to taste)_
 - 2 tablespoons oil or ghee
 - 1 teaspoon mustard seeds
@@ -62,4 +62,4 @@ Puliyogare is a tangy and spicy South Indian tamarind rice dish, flavored with p
 
 Enjoy your delicious and tangy puliyogare!
 
-<img src="/rosies-recipes/images/puliyogare-2.webp">
+<img src="/images/puliyogare-2.webp">
