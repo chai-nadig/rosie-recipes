@@ -2,7 +2,7 @@
 
 ## _Welcome to Rosie's Recipes: A Culinary Journey Across the World_
 
-<img src="/rosies-recipes/images/friends-1.jpeg">
+<img src="./images/friends-1.jpeg">
 
 As a tribute to our dear friends Christoph and Melina on their special day, we’ve come together to create a collection of cherished recipes from around the world. From comforting home-cooked meals to exotic dishes from faraway lands, this recipe collection is a celebration of love, culture, and the joy of cooking.
 
