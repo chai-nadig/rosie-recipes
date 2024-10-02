@@ -42,8 +42,9 @@ Thayir Pachadi is made South Indian style with the goodness of aromatic temperin
 
 ## Preparation of the curd:
 
-1.⁠ ⁠Hang the curd overnight or for a few hours in a muslin cloth or a sieve. You should be able to drain all its water for thick & creamy curd. The curd should become a thick consistency like Greek yoghurt.
-2.⁠ ⁠⁠Put the curd in a blender, add a few spoons of the whey (curd water) and some milk powder for adding that extra thickness to your curd. Churn them all together in a blender.
+1. Hang the curd overnight or for a few hours in a muslin cloth or a sieve. You should be able to drain all its water for thick & creamy curd. The curd should become a thick consistency like Greek yoghurt.
+
+2. Put the curd in a blender, add a few spoons of the whey (curd water) and some milk powder for adding that extra thickness to your curd. Churn them all together in a blender.
 
 ## Directions
 
