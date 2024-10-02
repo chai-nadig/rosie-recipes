@@ -2,9 +2,11 @@
 
 - title: Home
   url: /
-- title: Pudi
-  url: /pudi/
 - title: Recipes
   url: /recipes/
+- title: Pudi
+  url: /pudi/
+- title: Friends
+  url: /friends/
 # - title: External Page
 #   url: https://the-page.com/you-want-to-link-to.html

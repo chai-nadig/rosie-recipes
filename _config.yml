@@ -87,6 +87,9 @@ collections:
   recipes:
     output: true
     permalink: /:collection/:path/
+  friends:
+    output: true
+    permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
@@ -108,6 +111,12 @@ defaults:
       type: recipe
     values:
       layout: recipe
+      share: true
+  - scope:
+      path: "_friends"
+      type: posts
+    values:
+      layout: post
       share: true
 
 # Site Author

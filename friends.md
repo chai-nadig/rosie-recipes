@@ -1,7 +1,7 @@
 ---
 title: Friends
 layout: collection
-permalink: /friends
+permalink: /friends/
 collection: friends
 entries_layout: grid
 ---

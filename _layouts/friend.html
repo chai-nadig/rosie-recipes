@@ -1,0 +1,9 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<div class="entries-{{ page.entries_layout | default: 'list' }}">
+  {% include recipes-friend.html taxonomy=page.taxonomy %}
+</div>
