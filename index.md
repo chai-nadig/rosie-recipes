@@ -16,3 +16,7 @@ Rosie’s Recipes is a labor of love, curated by their closest friends, each con
 Explore recipes, celebrate diverse cuisines, and create lasting memories—just like Christoph and Melina, and their new journey ahead.
 
 Happy cooking!
+
+<div>
+    <button class="btn primary align-center"><a href="recipes">Start here →</a></button>
+</div>
