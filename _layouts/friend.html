@@ -4,6 +4,31 @@ layout: page
 
 {{ content }}
 
+
+
+
+<div class="author-info"></div>
+    {%- if page.links -%}
+    <span>Have a question?</span>
+    <ul class="author-links">
+      {%- for link in page.links -%} {%- if link.url contains "://" -%} {%-
+      assign url = link.url -%} {%- else -%} {%- assign url = link.url |
+      relative_url -%} {%- endif -%}
+      <li class="author-link">
+        <a class="u-url" rel="me" target="_blank" href="{{ url }}"
+          ><i
+            class="{{ link.icon | default : 'fas fa-link' }} fa-lg"
+            title="{{ link.title }}"
+          ></i
+        ></a>
+      </li>
+      {%- endfor -%}
+    </ul>
+    {%- endif -%} {% if site.read_time %}{% include read-time.html %}{% endif %}
+  </div>
+
+
+
 <div class="entries-{{ page.entries_layout | default: 'list' }}">
   {% include recipes.html taxonomy=page.taxonomy %}
 </div>
