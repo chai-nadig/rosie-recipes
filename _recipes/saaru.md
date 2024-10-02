@@ -20,14 +20,14 @@ Saaru, also known as Rasam, is a tangy and spicy South Indian soup made from tam
 - 2 tablespoon saarina pudi (rasam powder)
 - 1 small lemon-sized ball of tamarind (or 1 tablespoon tamarind paste)
 - 1 medium tomato, chopped
-- 1/4 cup cooked toor dal (pigeon peas)
+- 1/4 cup cooked toor dal (tuvar dal / yellow split peas / pigeon peas)
 - 1/4 teaspoon turmeric powder
-- 1/2 teaspoon jaggery (optional, for sweetness)
+- 1/2 teaspoon jaggery _(optional, for sweetness)_
 - Salt to taste
 - 2 cups water
 - Fresh coriander leaves for garnish
 
-## Tempering
+### Tempering
 
 - 1 teaspoon mustard seeds
 - 1/2 teaspoon cumin seeds
@@ -39,7 +39,6 @@ Saaru, also known as Rasam, is a tangy and spicy South Indian soup made from tam
 ## Prepare Tamarind Water
 
 Soak the tamarind in 1/4 cup of warm water for about 10 minutes. Squeeze out the juice and discard the pulp (or use tamarind paste directly).
-Cook the Rasam:
 
 ## Directions
 
@@ -47,9 +46,11 @@ Cook the Rasam:
 2. Add 2 cups of water and bring the mixture to a boil.
 3. Once the tomatoes soften, mash them slightly with a spoon.
 4. Add the cooked toor dal and mix well.
-5. Stir in the saarina pudi (rasam powder) and salt to taste. Allow the rasam to simmer on low heat for about 5-7 minutes. Adjust the consistency by adding more water if needed.
+5. Stir in the saarina pudi (rasam powder) and salt to taste.
+6. Allow the rasam to simmer on low heat for about 5-7 minutes.
+7. Adjust the consistency by adding more water if needed.
 
-## Prepare the Tempering:
+## Tempering
 
 1. In a small pan, heat ghee or oil.
 2. Add mustard seeds and cumin seeds, and allow them to crackle.
