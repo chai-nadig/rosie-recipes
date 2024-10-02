@@ -9,6 +9,10 @@ image:
 author:
   name: Sam Chung
   picture: /images/sam.jpeg
+  links:
+    - title: Whatsapp
+      url: https://wa.me/+13476871470?text=Hi%20Sam%2C%20I%20have%20a%20quick%20question%20about%20your%20Walkin%27%20on%20Sunshine%20recipe
+      icon: fab fa-whatsapp
 ---
 
 This refreshing cocktail combines the zesty flavor of preserved kumquats with the spicy warmth of ginger beer, balanced by a touch of honey sweetness.

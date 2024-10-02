@@ -9,6 +9,13 @@ image:
 author:
   name: Dani Chiani
   picture: /images/dani.jpeg
+  links:
+    - title: Whatsapp
+      url: https://wa.me/+41787407232?text=Hi%20Dani%2C%20I%20have%20a%20quick%20question%20about%20your%20Creamy%20Pomodoro%20Pasta%20recipe
+      icon: fab fa-whatsapp
+    - title: Instagram
+      url: https://www.instagram.com/danichoou/
+      icon: fab fa-instagram
 ---
 
 This recipe is super easy and always a winner – whether it’s just the two of you or a group of friends on a mild late Summer night in Ibiza. A complete family favourite.

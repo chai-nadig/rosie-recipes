@@ -9,6 +9,13 @@ image:
 author:
   name: Pallavi Jain
   picture: /images/pallavi.jpg
+  links:
+    - title: Whatsapp
+      url: https://wa.me/+919899071282?text=Hi%20Pallo%2C%20I%20have%20a%20quick%20question%20about%20your%20Shakshuka%20Indian%20Style%20recipe
+      icon: fab fa-whatsapp
+    - title: Instagram
+      url: https://www.instagram.com/pallaviiii/
+      icon: fab fa-instagram
 ---
 
 Shakshuka Indian Style is a flavorful twist on the classic Middle Eastern dish, featuring poached eggs in a spiced tomato sauce infused with Indian flavors.

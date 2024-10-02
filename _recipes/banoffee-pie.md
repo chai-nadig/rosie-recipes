@@ -9,6 +9,13 @@ image:
 author:
   name: Pallavi Jain
   picture: /images/pallavi.jpg
+  links:
+    - title: Whatsapp
+      url: https://wa.me/+919899071282?text=Hi%20Pallo%2C%20I%20have%20a%20quick%20question%20about%20your%20Banoffee%20Pie%20recipe
+      icon: fab fa-whatsapp
+    - title: Instagram
+      url: https://www.instagram.com/pallaviiii/
+      icon: fab fa-instagram
 ---
 
 Banoffee Pie is a delicious, no-bake dessert that combines a buttery biscuit base with layers of sliced bananas, rich caramel or dulce de leche, and whipped cream.

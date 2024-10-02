@@ -9,6 +9,10 @@ image:
 author:
   name: Marlène Jarry
   picture: /images/marlène.jpeg
+  links:
+    - title: Whatsapp
+      url: https://wa.me/+12063511806?text=Hi%20Marl%C3%A8ne%2C%20I%20have%20a%20quick%20question%20about%20your%20Clafoutis%20recipe
+      icon: fab fa-whatsapp
 ---
 
 Cherries clafoutis from the French region of Limousin

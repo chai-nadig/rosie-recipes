@@ -9,6 +9,13 @@ image:
 author:
   name: Dani Chiani
   picture: /images/dani.jpeg
+  links:
+    - title: Whatsapp
+      url: https://wa.me/+41787407232?text=Hi%20Dani%2C%20I%20have%20a%20quick%20question%20about%20your%20Chrispy%20Baguette%20recipe
+      icon: fab fa-whatsapp
+    - title: Instagram
+      url: https://www.instagram.com/danichoou/
+      icon: fab fa-instagram
 ---
 
 Super easy Baguette for on the fly. You can prepare it the day before and even freeze it. Best to consume freshly out of the oven though, when it’s still warm.

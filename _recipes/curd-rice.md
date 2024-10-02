@@ -9,6 +9,13 @@ image:
 author:
   name: Kopal Khanna
   picture: /images/kopal.jpg
+  links:
+    - title: Whatsapp
+      url: https://wa.me/+919920401373?text=Hi%20Kopi%2C%20I%20have%20a%20quick%20question%20about%20your%20Curd%20Rice%20recipe
+      icon: fab fa-whatsapp
+    - title: Instagram
+      url: https://www.instagram.com/kopalkhanna/
+      icon: fab fa-instagram
 ---
 
 This curd rice recipe is my comfort food. Easy on the tummy, yummy on the tongue, and satisfying for the heart. Super easy to make, with a touch of South India.
