@@ -2,8 +2,9 @@
 
 <div class="entries-grid">
   {%- for entry in site.recipes -%} {% if entry.author.name == include.taxonomy
-  %} {% if entry.id %} {% assign title = entry.title | markdownify | strip_html
-  %} {% else %} {% assign title = entry.title %} {% endif %}
+  or entry.pudi == include.taxonomy %} {% if entry.id %} {% assign title =
+  entry.title | markdownify | strip_html %} {% else %} {% assign title =
+  entry.title %} {% endif %}
 
   <article class="entry h-entry">
     <header class="entry-header">
