@@ -16,6 +16,7 @@ author:
     - title: Instagram
       url: https://www.instagram.com/pallaviiii/
       icon: fab fa-instagram
+share: true
 ---
 
 Beetroot Yoghurt commonly known as Thayir Pachadi in the south of India is a delicious preparation using semi cooked Beetroot and thick yogurt or curd.

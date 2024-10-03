@@ -13,6 +13,7 @@ author:
     - title: Whatsapp
       url: https://wa.me/+13104806636?text=Hi%20Nina%2C%20I%20have%20a%20quick%20question%20about%20your%20Lemon%20Drizzle%20Traybake%20recipe
       icon: fab fa-whatsapp
+share: true
 ---
 
 Lemon Drizzle Traybake is a light and moist cake infused with the zesty freshness of lemon.

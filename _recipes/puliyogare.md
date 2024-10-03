@@ -18,6 +18,7 @@ author:
       icon: fab fa-instagram
 
 pudi: "Puliyogare Pudi"
+share: true
 ---
 
 Puliyogare is a tangy and spicy South Indian tamarind rice dish, flavored with puliyogare pudi, tamarind paste, and garnished with roasted peanuts and fried lentils.

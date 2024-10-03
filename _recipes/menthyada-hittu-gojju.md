@@ -18,6 +18,7 @@ author:
       icon: fab fa-instagram
 
 pudi: "Menthyada Hittu"
+share: true
 ---
 
 Menthyada Hittu Gojju is a flavorful South Indian dish made with green peppers and a fenugreek-lentil powder, cooked in a thick, tangy gravy.

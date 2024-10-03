@@ -18,6 +18,7 @@ author:
       icon: fab fa-instagram
 
 pudi: "Huli Pudi"
+share: true
 ---
 
 Carrot Radish Huli is a tangy and flavorful South Indian lentil stew made with carrots, radish, and spices, perfect with rice or as part of a traditional meal.

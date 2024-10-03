@@ -16,6 +16,7 @@ author:
     - title: Instagram
       url: https://www.instagram.com/anupamjaina/
       icon: fab fa-instagram
+share: true
 ---
 
 Margarita is a classic cocktail made with tequila, lime juice, and orange liqueur, often served with a salted rim.

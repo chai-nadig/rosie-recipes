@@ -17,6 +17,7 @@ author:
     - title: Instagram
       url: https://www.instagram.com/anupamjaina/
       icon: fab fa-instagram
+share: true
 ---
 
 Negroni is a classic Italian cocktail made with equal parts gin, Campari, and sweet vermouth.

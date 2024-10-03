@@ -16,6 +16,7 @@ author:
     - title: Instagram
       url: https://www.instagram.com/nina.az/
       icon: fab fa-instagram
+share: true
 ---
 
 Eliott's Hallots is a sweet, braided bread similar to traditional Challah.

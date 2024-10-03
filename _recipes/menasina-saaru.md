@@ -18,6 +18,7 @@ author:
       icon: fab fa-instagram
 
 pudi: "Menasina Saarina Pudi"
+share: true
 ---
 
 Menasina Saaru is a flavorful South Indian pepper rasam made with tamarind, toor dal, and a blend of spices, known for its tangy and spicy kick.

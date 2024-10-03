@@ -18,6 +18,7 @@ author:
       icon: fab fa-instagram
 
 pudi: "Chutney Pudi"
+share: true
 ---
 
 Chutney Pudi Anna, or chutney powder rice, is a simple and flavorful South Indian dish made by mixing cooked rice with spicy chutney powder, ghee, and a pinch of salt.

@@ -20,3 +20,11 @@ Happy cooking!
 <div>
     <button class="btn primary align-center"><a href="recipes">Start here →</a></button>
 </div>
+
+<div>
+    <img
+        class="align-center"
+        style="margin-top: 2em; margin-bottom: 1em"
+        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={{ site.url | url_escape }}{{ page.url | uri_escape }}&count_bg=%23BFBFBF&title_bg=%23BFBFBF&title=Views&edge_flat=false"
+    />
+</div>

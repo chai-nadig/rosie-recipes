@@ -16,6 +16,7 @@ author:
     - title: Instagram
       url: https://www.instagram.com/_harsha_ashok_/
       icon: fab fa-instagram
+share: true
 ---
 
 Chicken Kathi Roll with Mint Cilantro Chutney is a popular Indian street food featuring tender, spiced chicken wrapped in a soft paratha or flatbread.

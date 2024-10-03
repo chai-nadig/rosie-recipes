@@ -16,6 +16,7 @@ author:
     - title: Instagram
       url: https://www.instagram.com/danichoou/
       icon: fab fa-instagram
+share: true
 ---
 
 Super easy Baguette for on the fly. You can prepare it the day before and even freeze it. Best to consume freshly out of the oven though, when it’s still warm.

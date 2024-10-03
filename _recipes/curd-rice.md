@@ -16,6 +16,7 @@ author:
     - title: Instagram
       url: https://www.instagram.com/kopalkhanna/
       icon: fab fa-instagram
+share: true
 ---
 
 This curd rice recipe is my comfort food. Easy on the tummy, yummy on the tongue, and satisfying for the heart. Super easy to make, with a touch of South India.

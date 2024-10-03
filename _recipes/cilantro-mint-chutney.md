@@ -16,6 +16,7 @@ author:
     - title: Instagram
       url: https://www.instagram.com/pallaviiii/
       icon: fab fa-instagram
+share: true
 ---
 
 Cilantro Mint Chutney is a vibrant, tangy, and refreshing Indian condiment made from fresh cilantro (coriander leaves), mint leaves, green chilies, lemon juice, and a few spices.

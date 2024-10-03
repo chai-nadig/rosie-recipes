@@ -16,6 +16,8 @@ author:
     - title: Instagram
       url: https://www.instagram.com/pallaviiii/
       icon: fab fa-instagram
+
+share: true
 ---
 
 Banoffee Pie is a delicious, no-bake dessert that combines a buttery biscuit base with layers of sliced bananas, rich caramel or dulce de leche, and whipped cream.

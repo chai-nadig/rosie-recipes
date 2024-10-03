@@ -18,6 +18,7 @@ author:
       icon: fab fa-instagram
 
 pudi: "Majjige Pudi"
+share: true
 ---
 
 Majjige is a refreshing South Indian buttermilk drink made with yogurt, water, and spices, often flavored with majjige pudi for a tangy and flavorful twist.

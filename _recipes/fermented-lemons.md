@@ -16,6 +16,7 @@ author:
     - title: Instagram
       url: https://www.instagram.com/nina.az/
       icon: fab fa-instagram
+share: true
 ---
 
 Fermented lemons, Fatima's mother's recipe found in Mimine's cookbook!

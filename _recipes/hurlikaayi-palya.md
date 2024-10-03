@@ -18,6 +18,7 @@ author:
       icon: fab fa-instagram
 
 pudi: "Palyada Pudi"
+share: true
 ---
 
 Hurlikaayi Palya, or beans stir fry, is a simple and flavorful South Indian stir-fry made with green beans, spiced with palyada pudi, and tempered with mustard seeds and curry leaves.
