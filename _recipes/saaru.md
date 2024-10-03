@@ -67,6 +67,6 @@ Saaru, also known as Rasam, is a tangy and spicy South Indian soup made from tam
    - Garnish with fresh coriander leaves.
 
 5. **Serve:**
-   - Serve the menasina saaru hot with steamed rice or enjoy it as a soup.
+   - Serve the saaru hot with steamed rice or enjoy it as a soup.
 
 <img src="/images/saaru-2.webp">
