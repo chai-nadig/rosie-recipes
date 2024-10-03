@@ -25,6 +25,6 @@ Happy cooking!
     <img
         class="align-center"
         style="margin-top: 2em; margin-bottom: 1em"
-        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={{ site.url | url_escape }}{{ page.url | uri_escape }}&count_bg=%23BFBFBF&title_bg=%23BFBFBF&title=Views&edge_flat=false"
+        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url={{ site.url | uri_escape }}{{ page.url | uri_escape }}&count_bg=%23BFBFBF&title_bg=%23BFBFBF&title=Views&edge_flat=false"
     />
 </div>
