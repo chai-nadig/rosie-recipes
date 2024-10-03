@@ -42,7 +42,7 @@ Shakshuka Indian Style is a flavorful twist on the classic Middle Eastern dish, 
 4. ⁠You can finely chop the cilantro and the basil and add that too.
 5. ⁠⁠Add a few pinches of the garam masala, cumin powder, coriander powder, salt and pepper. You can also swap out the indian spices to other spices like oregano.
 6. ⁠⁠Give the paste a big mix
-7. S⁠spread and flatten out the entire mix in the fan.
+7. S⁠pread and flatten out the entire mix in the pan.
 8. ⁠Make circular pockets in the paste.
 9. ⁠⁠Crack open the eggs in those pockets.
 10. ⁠Let the eggs be cooked to your desired consistency.
